@@ -1,0 +1,13 @@
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\bin\Debug\net8.0\JustChat.Domain.deps.json
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\bin\Debug\net8.0\JustChat.Domain.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\bin\Debug\net8.0\JustChat.Domain.pdb
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.sourcelink.json
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\refint\JustChat.Domain.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.pdb
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\ref\JustChat.Domain.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Domain\obj\Debug\net8.0\JustChat.Domain.csproj.AssemblyReference.cache

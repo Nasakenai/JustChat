@@ -7,15 +7,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{59833FF3-E4B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9197ACB6-C6C9-410C-96E2-F8A5510B7072}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.Web", "JustChat.Web\JustChat.Web.csproj", "{10A0595D-0567-45B9-A06C-6314F3F61A47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustChat.Application", "JustChat.Application\JustChat.Application.csproj", "{05318D82-CA71-4512-97B8-EE90A0CF4550}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.Application", "JustChat.Application\JustChat.Application.csproj", "{05318D82-CA71-4512-97B8-EE90A0CF4550}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustChat.Infrastructure", "JustChat.Infrastructure\JustChat.Infrastructure.csproj", "{F77B3898-870B-47D5-8BBB-590FF352E733}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.Infrastructure", "JustChat.Infrastructure\JustChat.Infrastructure.csproj", "{F77B3898-870B-47D5-8BBB-590FF352E733}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustChat.Domain", "JustChat.Domain\JustChat.Domain.csproj", "{379F77F5-DAE7-4370-9E7B-21F747E4AAAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.Domain", "JustChat.Domain\JustChat.Domain.csproj", "{379F77F5-DAE7-4370-9E7B-21F747E4AAAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JustChat.UnitTest", "JustChat.UnitTest\JustChat.UnitTest.csproj", "{1C782DC1-4AA6-4539-93F1-94FBD7E047DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.UnitTest", "JustChat.UnitTest\JustChat.UnitTest.csproj", "{1C782DC1-4AA6-4539-93F1-94FBD7E047DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustChat.WebAPI", "JustChat.WebAPI\JustChat.WebAPI.csproj", "{874DDD09-B50A-493A-AE42-D6A3D59BAFFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{10A0595D-0567-45B9-A06C-6314F3F61A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{10A0595D-0567-45B9-A06C-6314F3F61A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{10A0595D-0567-45B9-A06C-6314F3F61A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{10A0595D-0567-45B9-A06C-6314F3F61A47}.Release|Any CPU.Build.0 = Release|Any CPU
 		{05318D82-CA71-4512-97B8-EE90A0CF4550}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05318D82-CA71-4512-97B8-EE90A0CF4550}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05318D82-CA71-4512-97B8-EE90A0CF4550}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -43,16 +39,20 @@ Global
 		{1C782DC1-4AA6-4539-93F1-94FBD7E047DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C782DC1-4AA6-4539-93F1-94FBD7E047DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C782DC1-4AA6-4539-93F1-94FBD7E047DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874DDD09-B50A-493A-AE42-D6A3D59BAFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874DDD09-B50A-493A-AE42-D6A3D59BAFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874DDD09-B50A-493A-AE42-D6A3D59BAFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874DDD09-B50A-493A-AE42-D6A3D59BAFFF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{10A0595D-0567-45B9-A06C-6314F3F61A47} = {59833FF3-E4BB-4862-9C66-1A851CC9530C}
 		{05318D82-CA71-4512-97B8-EE90A0CF4550} = {59833FF3-E4BB-4862-9C66-1A851CC9530C}
 		{F77B3898-870B-47D5-8BBB-590FF352E733} = {59833FF3-E4BB-4862-9C66-1A851CC9530C}
 		{379F77F5-DAE7-4370-9E7B-21F747E4AAAD} = {59833FF3-E4BB-4862-9C66-1A851CC9530C}
 		{1C782DC1-4AA6-4539-93F1-94FBD7E047DB} = {9197ACB6-C6C9-410C-96E2-F8A5510B7072}
+		{874DDD09-B50A-493A-AE42-D6A3D59BAFFF} = {59833FF3-E4BB-4862-9C66-1A851CC9530C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FEA781C1-65DF-4AB2-90A4-66AC1586218E}

@@ -27,10 +27,7 @@
         ],
         "sources": {
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://mcsystems.pkgs.visualstudio.com/_packaging/MCSAzurePackages/nuget/v3/index.json": {},
-          "https://nuget.org/api/v2": {},
-          "https://pkgs.dev.azure.com/mcsystems/_packaging/MCS_Nuget/nuget/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -63,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

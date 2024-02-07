@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "45fCSszAQsfNCYgv61h98wtYrEAACs8gyrdWO4joh0w=",
+  "Source": "JustChat.WebAPI",
+  "BasePath": "_content/JustChat.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

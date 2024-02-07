@@ -1,0 +1,12 @@
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\bin\Debug\net8.0\JustChat.Application.deps.json
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\bin\Debug\net8.0\JustChat.Application.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\bin\Debug\net8.0\JustChat.Application.pdb
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.AssemblyInfoInputs.cache
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.AssemblyInfo.cs
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.csproj.CoreCompileInputs.cache
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.sourcelink.json
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\refint\JustChat.Application.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.pdb
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\ref\JustChat.Application.dll
