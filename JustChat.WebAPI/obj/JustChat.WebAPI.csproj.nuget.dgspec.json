@@ -32,7 +32,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Enrique\\Desktop\\Portfolio\\JustChat.Domain\\JustChat.Domain.csproj": {
+                "projectPath": "C:\\Users\\Enrique\\Desktop\\Portfolio\\JustChat.Domain\\JustChat.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -271,6 +275,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.1, )"

@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mMjUvsloFEfEr19UPgqS5t/U49TAXDm981ObfuP7UvRK5SsTrkotKe1DdT9h0/dCHcM334+1A5TPAAvz2sNHLA==",
+  "dgSpecHash": "JoKuUAGNA9IGzszmQ/f6GBpCCr03Fg5yFWxrmHppqapebDCCu6woPmOIzER5Vq4Rq/fdb5VeNGAgvW54XInHRw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Enrique\\Desktop\\Portfolio\\JustChat.WebAPI\\JustChat.WebAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Enrique\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Enrique\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Enrique\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
     "C:\\Users\\Enrique\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",

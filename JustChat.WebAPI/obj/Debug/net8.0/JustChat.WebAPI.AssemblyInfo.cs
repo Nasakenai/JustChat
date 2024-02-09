@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JustChat.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2757efcf10ac795a920b05396b3c898cf4a66358")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56364b05dc21ee8e9f7c89130773f4201936c655")]
 [assembly: System.Reflection.AssemblyProductAttribute("JustChat.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JustChat.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

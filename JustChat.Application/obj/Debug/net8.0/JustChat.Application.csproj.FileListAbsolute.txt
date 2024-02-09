@@ -10,3 +10,7 @@ C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustCha
 C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\refint\JustChat.Application.dll
 C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.pdb
 C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\ref\JustChat.Application.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\bin\Debug\net8.0\JustChat.Domain.dll
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\bin\Debug\net8.0\JustChat.Domain.pdb
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.csproj.AssemblyReference.cache
+C:\Users\Enrique\Desktop\Portfolio\JustChat.Application\obj\Debug\net8.0\JustChat.Application.csproj.CopyComplete

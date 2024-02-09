@@ -1006,6 +1006,9 @@
         }
       },
       "JustChat.Application/1.0.0": {
+        "dependencies": {
+          "JustChat.Domain": "1.0.0"
+        },
         "runtime": {
           "JustChat.Application.dll": {}
         }

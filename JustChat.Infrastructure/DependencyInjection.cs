@@ -1,4 +1,7 @@
-﻿using JustChat.Infrastructure.Persistence;
+﻿using JustChat.Application.Interfaces;
+using JustChat.Infrastructure.Persistence;
+using JustChat.Infrastructure.Repository;
+using JustChat.Infrastructure.Services;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -21,6 +24,11 @@ namespace JustChat.Infrastructure
 
             services.AddIdentityCore<IdentityUser>()
                 .AddEntityFrameworkStores<AuthDbContext>();
+
+            services.AddScoped<ApplicationDbContext>();
+            services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
+            services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<IChatManagerService, ChatManagerService>();
 
             return services;
         }
