@@ -993,6 +993,11 @@
           }
         }
       },
+      "JustChat.Application/1.0.0": {
+        "runtime": {
+          "JustChat.Application.dll": {}
+        }
+      },
       "JustChat.Domain/1.0.0": {
         "dependencies": {
           "Microsoft.AspNet.Identity.EntityFramework": "2.2.4"
@@ -1003,6 +1008,7 @@
       },
       "JustChat.Infrastructure/1.0.0": {
         "dependencies": {
+          "JustChat.Application": "1.0.0",
           "JustChat.Domain": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.1",
           "Microsoft.EntityFrameworkCore": "8.0.1",
@@ -1642,6 +1648,11 @@
       "sha512": "sha512-IXoJOXIqc39AIe+CIR7koBtRGMiCt/LPM3lI+PELtDIy9XdyeSrwXFdWV9dzJ2Awl0paLWUaknLxFQ5HpHZUog==",
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
+    },
+    "JustChat.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "JustChat.Domain/1.0.0": {
       "type": "project",

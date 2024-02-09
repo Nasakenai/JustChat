@@ -21,6 +21,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\JustChat.Application\JustChat.Application.csproj" />
     <ProjectReference Include="..\JustChat.Domain\JustChat.Domain.csproj" />
   </ItemGroup>
 
